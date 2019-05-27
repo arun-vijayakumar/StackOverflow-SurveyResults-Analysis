@@ -5,7 +5,7 @@
 - What languages were most popular in each year?
 - Comparison of language wanted to work and currenlty working
 - Trends in Salary?
-
+Medium blog about this project can be viewed <a href="https://medium.com/@arunvkumar_85287/stack-overflow-developer-survey-results-analysis-f849cc54118d">here</a>
 ### Installation
 This project is developed in <b>Python</b> using the <b>Jupyter</b> IDE. </br>
 ### Project Motivation
