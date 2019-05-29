@@ -31,3 +31,6 @@ Below are the result of the Analysis.
   - The top 5 programming languages that programmers wanted to work were :
       Javascript, HTML, CSS, SQL. Java
     These are the same technolgies trending in Year 2018
+- Trends in Salary?
+
+  Conclusive analyis could not be done in for the Salary trend as there is major variance of the data across years.
