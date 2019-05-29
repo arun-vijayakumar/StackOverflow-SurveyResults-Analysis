@@ -17,3 +17,17 @@ However, due to the size limitation in uploading the files to github, the files 
 - 2016_Stack_Overflow_Survey_Responses.csv
 - 2017_Stack_Overflow_Survey_Responses.csv
 - 2018_Stack_Overflow_Survey_Responses.csv
+
+### Results
+Below are the result of the Analysis.
+- What languages were most popular in each year?
+  - Year 2016
+    - JavaScript, SQL, ava, C#,PHP
+  - Year 2017
+    - JavaScript, SQL, Java, C#, Python    
+  - Year 2018
+    - JavaScript, HTML, CSS, SQL, Java
+- Comparison of language wanted to work and currenlty working
+  - The top 5 programming languages that programmers wanted to work were :
+      Javascript, HTML, CSS, SQL. Java
+    These are the same technolgies trending in Year 2018
